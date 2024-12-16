@@ -1,0 +1,11 @@
+### Chat with generic coach
+POST http://localhost:8080/chat/001
+
+"what is your name?"
+###
+
+### Chat with jeff nippard
+POST http://localhost:8080/chat/jeff-nippard/002
+
+"what was my third question to you"
+###

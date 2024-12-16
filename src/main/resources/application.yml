@@ -1,0 +1,12 @@
+spring:
+    application.name: science-based-lifting-agent
+    ai:
+        ollama:
+            init:
+                embedding:
+                    include: false
+            chat:
+                options:
+                    model: llama3.2
+
+logging.level.org.springframework.ai.chat.client.advisor: DEBUG
