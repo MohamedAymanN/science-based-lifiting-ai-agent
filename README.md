@@ -1,6 +1,6 @@
 # 🏋️‍♂️ Science-Based Lifting Agent 🏋
 
-An AI agent for science-based lifting, built with Java and Spring Boot and Spring AI
+An AI agent for science-based lifting, built with Java, Spring Boot and Spring AI
 
 ## 📚 Table of Contents
 
